@@ -1,0 +1,5 @@
+print("A">"a")
+print(ord("A"))
+print(ord("a"))
+print(ord("z"))
+print("kavya">"ardhra")
